@@ -1,0 +1,10 @@
+coverage
+.bundle/
+TAGS
+*.swp
+.guides/
+.settings
+sinatra-url.txt
+vendor/
+.bundle/
+coverage/
